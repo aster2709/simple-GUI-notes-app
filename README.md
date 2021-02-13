@@ -26,4 +26,4 @@ After successfully loggin in
 ![](tkinter_photos/delete_note.png)
 
 ## Delete success
-![](tkinter_photos/delete_success.png)
+![](tkinter_photos/deleted.png)
